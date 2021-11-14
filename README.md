@@ -3,7 +3,7 @@
 - portuguese,english, mandarin and some spanish speaker
 
 -------------------------------------------
-[LinkedIn](www.linkedin.com/in/weilyhuang) | [Behance](https://www.behance.net/w3ily10)
+[LinkedIn](https://www.linkedin.com/in/weilyhuang) | [Behance](https://www.behance.net/w3ily10)
 
 <!---
 weily10/weily10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
